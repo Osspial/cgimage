@@ -1,0 +1,8 @@
+[package]
+name = "cgimage"
+version = "0.1.0"
+authors = ["Osspial <osspial@gmail.com>"]
+
+[dependencies]
+cgmath = { git = "https://github.com/Osspial/cgmath", branch = "prs_merged" }
+cgmath-geometry = { git = "https://github.com/Osspial/cgmath-geometry" }
